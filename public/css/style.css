@@ -86,7 +86,7 @@ text-decoration:none;
 body {
 	font: 14px/18px  Arial, Helvetica, sans-serif;
 	color:#826660;
-	position:relative;
+	/*position:relative;
 	/*min-width:960px;*/
 	padding-top: 27px;
 	background: #5fa022;
